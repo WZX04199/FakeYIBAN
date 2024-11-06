@@ -9,8 +9,10 @@ WARNING: This program is only used for demonstration and should not be abused. U
 如需修改指定内容或重新编译发布项目时遇到问题，请联系我，我会为你提供帮助（有偿）
 
 ## Installing on mobile devices
-
-想办法复制链接到易班APP并打开，自定义内容即可完成 IOS+安卓+WIN三端通用
+IOS+安卓+WIN三端通用
+11月6日最新更新：三端均可安装APP
+需要请联系QQ:971131370
+价格不贵，几块钱的服务器维护费
 
 ## Project setup
 ```
