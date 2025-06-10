@@ -1,6 +1,6 @@
 # Fake Yiban: 一个易班请假演示软件
 
-# [Start开始测试](https://rjc6.top/dist)
+# [Start开始测试](https://wzx04199.github.io/FakeYIBAN/dist)
 
 WARNING: This program is only used for demonstration and should not be abused. Use it at your own risk.
 
